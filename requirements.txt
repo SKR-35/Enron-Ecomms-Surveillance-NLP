@@ -1,0 +1,43 @@
+# Core
+pandas
+numpy
+pyarrow
+
+# NLP
+nltk
+spacy
+sentence-transformers
+transformers
+torch
+
+# Topic Modeling
+bertopic
+umap-learn
+hdbscan
+
+# ML
+scikit-learn
+
+# Network Analytics
+networkx
+
+# Visualization
+plotly
+matplotlib
+
+# Dashboard
+streamlit
+
+# Utilities
+tqdm
+python-dotenv
+
+# Database
+sqlalchemy
+
+# Testing
+pytest
+
+# Jupyter
+jupyter
+ipykernel
