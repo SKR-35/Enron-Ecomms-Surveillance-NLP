@@ -1,0 +1,12 @@
+data/raw/
+data/interim/
+data/processed/
+data/outputs/
+*.csv
+*.parquet
+*.sqlite
+*.db
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
