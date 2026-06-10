@@ -11,3 +11,5 @@ __pycache__/
 .env
 .venv/
 *.log
+.Rproj.user
+*.Rproj
