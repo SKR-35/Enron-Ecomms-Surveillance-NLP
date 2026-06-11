@@ -4,6 +4,8 @@
 ![Shiny](https://img.shields.io/badge/Shiny-Dashboard-blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-orange)
 
+**Live dashboard:** https://skr-35.shinyapps.io/enron-ecomms-surveillance-nlp/
+
 # Enron E-Comms Surveillance NLP
 
 An end-to-end communications surveillance and investigation analytics platform built using the Enron Email Dataset.
@@ -25,6 +27,10 @@ The workflow mirrors surveillance processes commonly used in:
 * Internal Audit
 * Fraud Analytics
 * Regulatory Investigations
+
+![Dashboard overview](reports/Dashboard_ui.png)
+
+![Risk signals](outputs/Dashboard_ui2.png)
 
 ---
 
