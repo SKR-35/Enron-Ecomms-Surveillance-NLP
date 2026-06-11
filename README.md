@@ -30,7 +30,7 @@ The workflow mirrors surveillance processes commonly used in:
 
 ![Dashboard overview](reports/Dashboard_ui.png)
 
-![Risk signals](outputs/Dashboard_ui2.png)
+![Risk signals](reports/Dashboard_ui2.png)
 
 ---
 
