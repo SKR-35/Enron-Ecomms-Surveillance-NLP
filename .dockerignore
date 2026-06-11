@@ -1,0 +1,9 @@
+.git
+.Rhistory
+.RData
+.Rproj.user
+logs
+notebooks
+tests
+__pycache__
+.env
